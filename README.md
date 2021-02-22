@@ -1,0 +1,2 @@
+# note-kata
+kata notes 
